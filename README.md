@@ -95,3 +95,9 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:0d1117&height=100&section=footer" width="100%"/>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harsith-g/output/snake-dark.svg" alt="GitHub Contribution Snake">
+</p>
